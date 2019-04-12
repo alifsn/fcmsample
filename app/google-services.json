@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "436859265429",
+    "firebase_url": "https://shearing-season.firebaseio.com",
+    "project_id": "shearing-season",
+    "storage_bucket": "shearing-season.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436859265429:android:ff3aa6fbbb8e9783",
+        "android_client_info": {
+          "package_name": "sharing.season"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAko9F51HOJ59RTQaxx7RRCtY6SNVGUt4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436859265429-jrjn6acmob4gg2v9plefe2reiu6hp729.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
