@@ -37,6 +37,12 @@ class MyFirebaseMessagingService : FirebaseMessagingService() {
 
         // Check if message contains a data payload.
         val payload = remoteMessage?.data
+        if (payload?.isEmpty() != true) {
+            payload?.let {
+                Log.d("REZAAA", "Message Notification Body: ${payload.getValue("body")}")
+                sendNotification(payload.getValue("title"), payload.getValue("body"), payload)
+            }
+        }
 
         // Check if message contains a notification payload.
         remoteMessage?.notification?.let {

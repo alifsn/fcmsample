@@ -1,29 +1,33 @@
 {
   "project_info": {
-    "project_number": "436859265429",
-    "firebase_url": "https://shearing-season.firebaseio.com",
-    "project_id": "shearing-season",
-    "storage_bucket": "shearing-season.appspot.com"
+    "project_number": "1041914396069",
+    "project_id": "test-notif-97b1f",
+    "storage_bucket": "test-notif-97b1f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:436859265429:android:ff3aa6fbbb8e9783",
+        "mobilesdk_app_id": "1:1041914396069:android:96083816950aeb3635bc4c",
         "android_client_info": {
-          "package_name": "sharing.season"
+          "package_name": "com.reza.fcmsample"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1041914396069-7rqupqea71mkuo5ve4db56h0va9s7ppu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyAko9F51HOJ59RTQaxx7RRCtY6SNVGUt4I"
+          "current_key": "AIzaSyCtUJHmcaIlm04im9yBwbgtntRfhdoFwzs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "436859265429-jrjn6acmob4gg2v9plefe2reiu6hp729.apps.googleusercontent.com",
+              "client_id": "1041914396069-7rqupqea71mkuo5ve4db56h0va9s7ppu.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

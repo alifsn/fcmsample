@@ -6,7 +6,7 @@ apply plugin: 'com.google.gms.google-services'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "sharing.season"
+        applicationId "com.reza.fcmsample"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
